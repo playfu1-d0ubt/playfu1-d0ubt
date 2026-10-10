@@ -11,11 +11,12 @@ I'm learning to build software, and my goal is to work in **biomedical robotics*
 | [Song Quiz](https://github.com/playfu1-d0ubt/song-quiz) | Console guessing game with logins, scoring and a leaderboard | Python, file handling |
 | [Ball Drop](https://github.com/playfu1-d0ubt/ball-drop) | Catch-the-falling-balls game with lives and speed-ups | Python, Pygame |
 | [Python Practice](https://github.com/playfu1-d0ubt/python-practice) | Small programs that practise the fundamentals, like a secret message encoder | Python, tkinter |
+| [Discord Bot](https://github.com/playfu1-d0ubt/discord-bot) | Server and member info, rules, dice rolls and an embed help command | Python, discord.py |
 
 ## Skills
 
 - **Languages:** Python, HTML/CSS
-- **Libraries:** Pygame, requests, BeautifulSoup, pandas, tkinter
+- **Libraries:** Pygame, requests, BeautifulSoup, pandas, tkinter, discord.py
 - **Tools:** Git and GitHub, the Linux terminal, virtual environments
 
 ## Next up
