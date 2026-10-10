@@ -10,12 +10,12 @@ I'm learning to build software, and my goal is to work in **biomedical robotics*
 | [CSV Cleaner](https://github.com/playfu1-d0ubt/csv-cleaner) | Tidies messy CSV files from the command line | Python, pandas |
 | [Song Quiz](https://github.com/playfu1-d0ubt/song-quiz) | Console guessing game with logins, scoring and a leaderboard | Python, file handling |
 | [Ball Drop](https://github.com/playfu1-d0ubt/ball-drop) | Catch-the-falling-balls game with lives and speed-ups | Python, Pygame |
-| [Python Practice](https://github.com/playfu1-d0ubt/python-practice) | Small programs that practise the fundamentals, like a secret message encoder | Python |
+| [Python Practice](https://github.com/playfu1-d0ubt/python-practice) | Small programs that practise the fundamentals, like a secret message encoder | Python, tkinter |
 
 ## Skills
 
 - **Languages:** Python, HTML/CSS
-- **Libraries:** Pygame, requests, BeautifulSoup, pandas
+- **Libraries:** Pygame, requests, BeautifulSoup, pandas, tkinter
 - **Tools:** Git and GitHub, the Linux terminal, virtual environments
 
 ## Next up
