@@ -1,6 +1,6 @@
 # Hi, I'm Onyx 👋
 
-I'm learning to build software, and my goal is to work on the **software side of biomedical robotics**. I build small, finished Python projects and publish each one with a README that explains what it does and how to run it.
+I'm learning to build software, and my goal is to work in **biomedical robotics**. I build small, finished Python projects and publish each one with a README that explains what it does and how to run it.
 
 ## Projects
 
