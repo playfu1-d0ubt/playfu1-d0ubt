@@ -12,6 +12,7 @@ I'm learning to build software, and my goal is to work in **biomedical robotics*
 | [Ball Drop](https://github.com/playfu1-d0ubt/ball-drop) | Catch-the-falling-balls game with lives and speed-ups | Python, Pygame |
 | [Python Practice](https://github.com/playfu1-d0ubt/python-practice) | Small programs that practise the fundamentals, like a secret message encoder | Python, tkinter |
 | [Discord Bot](https://github.com/playfu1-d0ubt/discord-bot) | Server and member info, rules, dice rolls and an embed help command | Python, discord.py |
+> All my projects have only been tested on **Linux Mint 22.3 - Cinnamon 64-bit on kernel 7.0.0-38-generic** 
 
 ## Skills
 
