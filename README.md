@@ -2,6 +2,8 @@
 
 I'm learning to build software, and my goal is to work in **biomedical robotics**. I build small, finished Python projects and publish each one with a README that explains what it does and how to run it.
 
+#### See my portfolio site [here](https://playfu1-d0ubt.github.io/portfolio/) 
+
 ## Projects
 
 | Project | What it does | Built with |
