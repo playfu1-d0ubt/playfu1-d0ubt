@@ -26,5 +26,4 @@ I'm learning to build software, and my goal is to work in **biomedical robotics*
 
 - A heart-rate signal analyser that filters noise and finds the beat
 - A line-following robot simulator
-- A personal portfolio website
 - Adding automated tests to my projects
