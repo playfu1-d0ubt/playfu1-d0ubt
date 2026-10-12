@@ -21,7 +21,7 @@ I'm learning to build software, and my goal is to work in **biomedical robotics*
 ## Skills
 
 - **Languages:** Python, HTML/CSS
-- **Libraries:** Pygame, requests, BeautifulSoup, pandas, tkinter, discord.py, openpyxl
+- **Libraries:** Pygame, requests, BeautifulSoup, pandas, tkinter, discord.py, openpyxl, flask, SQL
 - **Tools:** Git and GitHub, the Linux terminal, virtual environments
 
 ## Next up
