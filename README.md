@@ -18,6 +18,7 @@ I'm learning to build software, and my goal is to work in **biomedical robotics*
 | [Task Tracker API](https://github.com/playfu1-d0ubt/task-tracker-api) | A REST API for a to-do list: add, list, change and delete tasks over HTTP, with input checking | Python, Flask, SQLite |
 | [Robot Arm IMU Analysis](https://github.com/playfu1-d0ubt/data-analysis-report) | Analysis of motion-sensor data from a UR5 robot arm, tracing why calibration offsets hid a strong correlation | Python, pandas, matplotlib |
 | [Heart-Rate Signal Analyser](https://github.com/playfu1-d0ubt/heart-rate-analyser) | Filters a noisy heartbeat signal, finds each beat and works out BPM. Tested on synthetic data | Python, NumPy, SciPy, Matplotlib, pytest |
+| [Line-Following Robot Simulator](https://github.com/playfu1-d0ubt/line-following-robot) | Simulates a robot with two sensors that steers itself along a line, and draws the path it took | Python, Matplotlib, pytest |
 > All my projects have only been tested on **Linux Mint 22.3 - Cinnamon 64-bit on kernel 7.0.0-38-generic** 
 
 ## Skills
