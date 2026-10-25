@@ -16,16 +16,18 @@ I'm learning to build software, and my goal is to work in **biomedical robotics*
 | [Discord Bot](https://github.com/playfu1-d0ubt/discord-bot) | Server and member info, rules, dice rolls and an embed help command | Python, discord.py |
 | [Excel Report Generator](https://github.com/playfu1-d0ubt/excel-report-generator) | Turns a sales CSV into a formatted Excel report with summary sheets and charts | Python, pandas, openpyxl |
 | [Task Tracker API](https://github.com/playfu1-d0ubt/task-tracker-api) | A REST API for a to-do list: add, list, change and delete tasks over HTTP, with input checking | Python, Flask, SQLite |
+| [Robot Arm IMU Analysis](https://github.com/playfu1-d0ubt/data-analysis-report) | Analysis of motion-sensor data from a UR5 robot arm, tracing why calibration offsets hid a strong correlation | Python, pandas, matplotlib |
+| [Heart-Rate Signal Analyser](https://github.com/playfu1-d0ubt/heart-rate-analyser) | Filters a noisy heartbeat signal, finds each beat and works out BPM. Tested on synthetic data | Python, NumPy, SciPy, Matplotlib, pytest |
 > All my projects have only been tested on **Linux Mint 22.3 - Cinnamon 64-bit on kernel 7.0.0-38-generic** 
 
 ## Skills
 
 - **Languages:** Python, HTML/CSS
-- **Libraries:** Pygame, requests, BeautifulSoup, pandas, tkinter, discord.py, openpyxl, flask, SQL
+- **Libraries:** Pygame, requests, BeautifulSoup, pandas, tkinter, discord.py, openpyxl, flask, SQL, matplotlib, NumPy, SciPy, pytest
 - **Tools:** Git and GitHub, the Linux terminal, virtual environments
 
 ## Next up
 
-- A heart-rate signal analyser that filters noise and finds the beat
 - A line-following robot simulator
+- A prosthetic hand control simulator, using synthetic data
 - Adding automated tests to my projects
