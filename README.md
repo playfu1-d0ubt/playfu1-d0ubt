@@ -29,6 +29,6 @@ I'm learning to build software, and my goal is to work in **biomedical robotics*
 
 ## Next up
 
-- A line-following robot simulator
-- A prosthetic hand control simulator, using synthetic data
-- Adding automated tests to my projects
+- A beginner Python lessons repo, with step-by-step explanations and exercises
+- Adding automated tests and GitHub Actions to the rest of my older projects
+- Small builder projects: a password strength checker, an AI chat bot and a focus-blocker browser extension
